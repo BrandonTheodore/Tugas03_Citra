@@ -13,7 +13,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Buka folder proyek di MATLAB, lalu jalankan perintah berikut.
+Buka folder proyek di MATLAB, lalu run file `segmentation_app.m` atau jalankan perintah berikut.
 
 ```matlab
 segmentation_app;
