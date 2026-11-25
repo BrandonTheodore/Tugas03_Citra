@@ -23,3 +23,10 @@ segmentation_app;
 2. Pada **Deteksi Tepi**, pilih operator dan klik **Segmentasi objek**. GUI menampilkan citra asli, peta tepi, dan objek.
 3. Pada **Split and Merge**, atur parameter lalu klik **Segmentasi region** untuk membandingkan hasil dengan citra asli.
 4. Pada **Semantik CamVid**, gunakan Python dari `.venv` yang terdeteksi otomatis, atau pilih executable Python lain yang sudah memiliki dependensi. Gunakan checkpoint bawaan `output/camvid/camvid.pth`, lalu klik **Prediksi citra** untuk menampilkan hasil berwarna, overlay, dan legenda kelas.
+
+## Anggota Kelompok
+
+| NIM | Nama |
+|---|---|
+| 18223132 | Muhammad Rafly Fauzan     |
+| 18223020 | Brandon Theodore Ferrinov |
